@@ -1,7 +1,7 @@
 # Desktop Screen
 <br>
-<img src="assets/01.png">
-<img src="assets/02.png">
+<img src="assets/01.jpg">
+<img src="assets/02.jpg">
 <img src="assets/03.png">
 
 <br>
